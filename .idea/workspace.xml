@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b288991e-0fe4-44b5-8c24-d1dc0aa9468b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/0_Hello_World.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/10_Binary_Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/11_2D_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/12_Inheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/13_Abstract_Classes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/14_Scope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/15_Linked_List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/16_Exceptions_-_String_to_Integer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/17_More_Exceptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/18_Queues_and_Stacks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/19_Interfaces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/1_Data_Types.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/20_Sorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/21_Generics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/22_Binary_Search_Trees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/23_BST_Level-Order_Traversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/24_More_Linked_Lists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/25_Running_Time_and_Complexity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/26_Nested_Logic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/27_Testing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/28_RegEx,_Patterns,_and_Intro_to_Databases.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/29_Bitwise_AND.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/2_Operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/3_Intro_to_Conditional_Statements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/4_Class_vs_Instance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/5_Loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/6_Let's_Review.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/7_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/8_Dictionaries_and_Maps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank-30days/9_Recursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lcs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list-reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openedu-algorithms/avlbalance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openedu-algorithms/binarysubtreeremove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openedu-algorithms/binarytreeheight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openedu-algorithms/fifo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openedu-algorithms/inversionscount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openedu-algorithms/sortland.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openedu-algorithms/stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-algorithms-methods/coverSegments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-algorithms-methods/fibonacciLastNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-algorithms-methods/greatestcommondivisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-algorithms-methods/huffmancode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-algorithms-methods/huffmandecode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-algorithms-methods/knapsack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-algorithms-methods/longestsubsequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-algorithms-methods/priorityqueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-algorithms-methods/smallFibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-algorithms-structures/brackets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-algorithms-structures/heap-building.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-algorithms-structures/packages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-algorithms-structures/phones-book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-algorithms-structures/sliding-window-maximum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-algorithms-structures/stack-with-max.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-algorithms-structures/tree-height.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-functional/9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0007.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0008.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0009.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0010.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0011.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0012.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0013.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0014.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0015.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0016.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0017.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stepik-java-introduction/0018.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xmldoc.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2MQiUde8G42yTUzhGQjd9STOKS6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/ivan/IdeaProjects/Stepik-hadoop"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b288991e-0fe4-44b5-8c24-d1dc0aa9468b" name="Changes" comment="" />
+      <created>1677706223262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677706223262</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
